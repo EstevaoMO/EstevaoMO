@@ -1,4 +1,4 @@
-## **Opa, bão?**👋🏼
+## *Opa, bão?*👋🏼
 
 Eu me chamo Estevão, e estou me formando em *Ciência de Dados & IA (IBMEC)*.
 
@@ -13,6 +13,8 @@ Confira alguns dos meus principais projetos:
 - 
 -
 -
+
+---
 
 ### Coisas que Ninguém Perguntou:
 - 🎹 Sou tecladista
