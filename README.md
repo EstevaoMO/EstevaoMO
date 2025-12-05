@@ -25,4 +25,4 @@ Minhas principais competências técnicas são: **Python**, **PowerBI/PowerQuery
 
 ### Contato
 - 📩 estevaomoraes48@gmail.com
-- 🅾 @estevaobdm
+- 🅾 [@estevaobdm](https://www.instagram.com/estevaobdm/)
