@@ -14,11 +14,15 @@ Minhas principais competências técnicas são: **Python**, **PowerBI/PowerQuery
 -
 -
 
----
-
 ### Coisas que Ninguém Perguntou:
 - 🎹 Sou tecladista
 - ✒️ Escrevo poemas/contos (e romances incompletos...)
 - 🤓 Coleciono HQs
 - 🍽️ Gosto de cozinhar
 - **;** Eu gosto muito de ponto e vírgula; é sério.
+
+---
+
+### Contato
+- 📩 estevaomoraes48@gmail.com
+- 🅾 @estevaobdm
