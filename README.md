@@ -1,4 +1,4 @@
-## *Opa, bão?*👋🏼
+## **Opa, bão?** 👋🏼
 
 Eu me chamo Estevão, e estou me formando em *Ciência de Dados & IA (IBMEC)*.
 
@@ -8,7 +8,7 @@ Tenho experiência com **aplicativos fullstack**, **análise de dados e relatór
 
 Minhas principais competências técnicas são: **Python**, **PowerBI/PowerQuery**, **React Native** e **SQL**.
 
-Confira alguns dos meus principais projetos:
+#### Confira alguns dos meus principais projetos:
 - 
 - 
 -
