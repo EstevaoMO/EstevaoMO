@@ -9,7 +9,7 @@ Tenho experiência com **aplicativos fullstack**, **análise de dados e relatór
 Minhas principais competências técnicas são: **Python**, **PowerBI/PowerQuery**, **React Native** e **SQL**.
 
 #### Confira alguns dos meus principais projetos:
-- Aplicativo FullStack para Promoções de HQs ([PromoHQ](https://www.github.com/EstevaoMO/PROMOHQ)
+- Aplicativo FullStack para Promoções de HQs ([PromoHQ](https://www.github.com/EstevaoMO/PROMOHQ))
 - 
 -
 -
