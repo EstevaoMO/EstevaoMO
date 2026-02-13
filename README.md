@@ -16,7 +16,7 @@ Minhas principais competências técnicas são: **Python**, **PowerBI/PowerQuery
 
 ### Coisas que Ninguém Perguntou:
 - 🎹 Sou tecladista
-- ✒️ Escrevo poemas/contos (e romances incompletos...)
+- ✒️ Escritor
 - 🤓 Coleciono HQs
 - 🍽️ Gosto de cozinhar
 
