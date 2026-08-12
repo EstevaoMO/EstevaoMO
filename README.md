@@ -8,17 +8,6 @@ Tenho experiência com **aplicações fullstack**, **análise de dados e relató
 
 Minhas principais competências técnicas são: **Python**, **R**, **PowerBI/PowerQuery**, **MS Excel**, **SQL** e **JavaScript/React/React Native**.
 
-#### Principais projetos:
-- 
--
-- Dashboard interativo a partir de planilha Excel ([ExcelParaDashboard-Streamlit](https://www.github.com/EstevaoMO/ExcelParaDashboard-Streamlit))
-
-### Coisas que ninguém perguntou:
-- 🎹 Sou tecladista
-- ✒️ Escritor
-- 🤓 Coleciono HQs
-- 🍽️ Gosto de cozinhar
-
 ---
 
 ### Contato
