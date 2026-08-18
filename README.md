@@ -4,9 +4,9 @@ Eu me chamo Estevão, e estou me formando em *Ciência de Dados & IA (IBMEC)*.
 
 Valorizo muito o aprendizado constante.
 
-Tenho experiência com **aplicações fullstack**, **análise de dados e relatórios interativos**, **APIs e bancos de dados**, **webscrapping** e **automação de tarefas**.
+Tenho experiência com **ferramentas de orquestação de IA**, **machine learning**, **análise de dados e relatórios interativos**, **APIs e bancos de dados**, **webscrapping** e **automação de tarefas**.
 
-Minhas principais competências técnicas são: **Python**, **R**, **PowerBI/PowerQuery**, **MS Excel**, **SQL** e **JavaScript/React/React Native**.
+Minhas principais competências técnicas são: **Python**, **LangGraph/LangChain**, **R**, **PowerBI/PowerQuery**, **n8n**, **MS Excel**, **SQL** e **JavaScript/React/React Native**.
 
 ---
 
